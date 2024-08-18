@@ -8,5 +8,38 @@ The BMD-HS dataset is a groundbreaking collection of heart sound recordings, met
 - **Balanced class representation**: Recordings were collected from 20 healthy subjects and 20 subjects for each valvular disease class, addressing class imbalance issues.
 - **Rich metadata**: Annotations include disease presence, severity, and demographic information, enabling in-depth research and potential discovery of new correlations.
 
-## License:
-TBD
+## Dataset Structure
+
+### 1. Train Folder
+- **Files**: Contains 872 `.wav` audio files.
+- **Details**: Recordings were taken from 59 patients in 8 different positions, with each recording lasting 20 seconds. The recordings were sampled at a frequency of 4 kHz.
+
+### 2. Train.csv
+- **Purpose**: Contains training labels and corresponding recording file names for each patient.
+- **Columns**:
+  - **patient_id**: File names in the train folder.
+  - **AS**: Label for Aortic Stenosis (0 = absent, 1 = present).
+  - **AR**: Label for Aortic Regurgitation (0 = absent, 1 = present).
+  - **MR**: Label for Mitral Regurgitation (0 = absent, 1 = present).
+  - **MS**: Label for Mitral Stenosis (0 = absent, 1 = present).
+  - **N**: Label for normal patients (0 = disease, 1 = normal).
+  - **recording_1** to **recording_8**: File names for the 8 recordings corresponding to different positions for each patient.
+
+### 3. Additional_metadata.csv
+- **Purpose**: Provides supplemental information about patients, which can be used for enhancing predictions or making inferences.
+- **Columns**:
+  - **patient_id**: File names in the train folder.
+  - **Age**: Age of the patient.
+  - **Gender**: Gender of the patient (M = male, F = female).
+  - **Smoker**: Smoking status (0 = does not smoke, 1 = smokes).
+  - **Lives**: Living area of the patient (U = urban, F = rural).
+
+### Key Points:
+- **Preprocessing & Augmentation**: Due to the limited size of the training set, effective preprocessing and augmentation techniques are crucial.
+- **Transfer Learning**: Leveraging external publicly available datasets for transfer learning is encouraged.
+- **Metadata Utilization**: Finding correlations between the valvular disease classes and the provided metadata (age, gender, smoking status, living area) could improve model performance.
+
+## Potential Impact
+
+The BMD-HS dataset represents a diverse demographic, making it particularly relevant for research and healthcare development in regions like Bangladesh. The dataset's multi-label annotations and comprehensive representation of cardiac health states hold significant promise for the advancement of AI-based diagnostic tools for cardiovascular diseases, especially in underserved regions.
+
