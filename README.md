@@ -1,12 +1,14 @@
 # BMD-HS Dataset: Heart Sound Recordings for Automated Cardiovascular Disease Diagnosis
 
-The BMD-HS dataset is a groundbreaking collection of heart sound recordings, meticulously curated to enhance automated cardiovascular disease (CVD) diagnosis. This dataset contains over 800 recordings, classified into five categories, including common valvular diseases: Aortic Stenosis (AS), Aortic Regurgitation (AR), Mitral Regurgitation (MR), and Mitral Stenosis (MS), along with healthy (Normal) samples. 
+The BMD-HS dataset is a groundbreaking collection of heart sound recordings, meticulously curated to enhance automated cardiovascular disease (CVD) diagnosis. This dataset contains over 800 recordings, classified into five categories, including common valvular diseases: Aortic Stenosis (AS), Aortic Regurgitation (AR), Mitral Regurgitation (MR), and Mitral Stenosis (MS), along with healthy (Normal) samples.
 
 ## Key Features:
 - **Multi-label annotations**: Allows nuanced classification by capturing unique disease states, including both single and multi-valvular diseases.
+- **Echocardiographic data**: Includes echocardiographic (ECHO) data to provide additional diagnostic context, making the dataset more comprehensive for cardiovascular disease research.
 - **Diverse demographic representation**: Recorded at the National Institute of Cardiovascular Disease, Dhaka, the dataset includes a gender-balanced collection of heart sounds, ensuring its relevance for healthcare in Bangladesh and similar regions.
 - **Balanced class representation**: Recordings were collected from 20 healthy subjects and 20 subjects for each valvular disease class, addressing class imbalance issues.
 - **Rich metadata**: Annotations include disease presence, severity, and demographic information, enabling in-depth research and potential discovery of new correlations.
+- **Multi-disease data**: Includes patients with multiple valvular diseases, offering a complex dataset that reflects real-world scenarios where patients often suffer from more than one cardiovascular condition.
 
 ## Dataset Structure
 
@@ -22,6 +24,7 @@ The BMD-HS dataset is a groundbreaking collection of heart sound recordings, met
   - **AR**: Label for Aortic Regurgitation (0 = absent, 1 = present).
   - **MR**: Label for Mitral Regurgitation (0 = absent, 1 = present).
   - **MS**: Label for Mitral Stenosis (0 = absent, 1 = present).
+  - **MD**: Label for multi-disease patients (0 = disease, 1 = normal).
   - **N**: Label for normal patients (0 = disease, 1 = normal).
   - **recording_1** to **recording_8**: File names for the 8 recordings corresponding to different positions for each patient.
 
@@ -39,7 +42,13 @@ The BMD-HS dataset is a groundbreaking collection of heart sound recordings, met
 - **Transfer Learning**: Leveraging external publicly available datasets for transfer learning is encouraged.
 - **Metadata Utilization**: Finding correlations between the valvular disease classes and the provided metadata (age, gender, smoking status, living area) could improve model performance.
 
+## Weaknesses:
+- **Imbalanced Dataset**: Despite efforts to balance class representation, some variations in disease severity and demographics may still introduce imbalances, potentially affecting model training and performance.
+  
 ## Potential Impact
 
-The BMD-HS dataset represents a diverse demographic, making it particularly relevant for research and healthcare development in regions like Bangladesh. The dataset's multi-label annotations and comprehensive representation of cardiac health states hold significant promise for the advancement of AI-based diagnostic tools for cardiovascular diseases, especially in underserved regions.
+The BMD-HS dataset represents a diverse demographic, making it particularly relevant for research and healthcare development in regions like Bangladesh. The inclusion of multi-label annotations, echocardiographic data, and comprehensive representation of cardiac health states holds significant promise for the advancement of AI-based diagnostic tools for cardiovascular diseases, especially in underserved regions.
 
+---
+
+This version includes the mention of echocardiographic data and multi-disease data as key features and highlights the dataset's potential imbalance as a weakness.
