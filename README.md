@@ -1,6 +1,6 @@
 # BMD-HS Dataset: Heart Sound Recordings for Automated Cardiovascular Disease Diagnosis
 
-The BMD-HS dataset is a groundbreaking collection of heart sound recordings, meticulously curated to enhance automated cardiovascular disease (CVD) diagnosis. This dataset contains over 800 recordings, classified into five categories, including common valvular diseases: Aortic Stenosis (AS), Aortic Regurgitation (AR), Mitral Regurgitation (MR), and Mitral Stenosis (MS), along with healthy (Normal) samples.
+The BMD-HS dataset is a groundbreaking collection of heart sound recordings, meticulously curated to enhance automated cardiovascular disease (CVD) diagnosis. This dataset contains over 800 recordings, classified into six categories, including common valvular diseases: Aortic Stenosis (AS), Aortic Regurgitation (AR), Mitral Regurgitation (MR),  Multi Disease (MD), and Mitral Stenosis (MS), along with healthy (Normal) samples.
 
 ## Key Features:
 - **Multi-label annotations**: Allows nuanced classification by capturing unique disease states, including both single and multi-valvular diseases.
