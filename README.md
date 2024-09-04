@@ -55,10 +55,6 @@ This version includes the mention of echocardiographic data and multi-disease da
 
 ## Citations
 
-Here is the citation format for the IEEE paper and authors provided:
-
----
-
 If this dataset helped your research, please cite the following paper:
 
 Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S. S., Sani, S. M. S., Rahman, F., Nizam, N. B., Azam, F. B., Hossen, R., Ohab, S., Noor, N., & Hasan, T. (2024). [BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems](https://doi.org/10.48550/arXiv.2409.00724). IEEE Journal of Biomedical and Health Informatics, XX(XX), 1-XX.
