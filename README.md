@@ -55,20 +55,13 @@ This version includes the mention of echocardiographic data and multi-disease da
 
 ## Citations
 
-If this dataset helped your research, please cite the following paper:
+If this dataset helped your research, please cite the following papers:
 
-Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S. S., Sani, S. M. S., Rahman, F., Nizam, N. B., Azam, F. B., Hossen, R., Ohab, S., Noor, N., & Hasan, T. (2024). [BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems](https://doi.org/10.48550/arXiv.2409.00724). IEEE Journal of Biomedical and Health Informatics, XX(XX), 1-XX.
+Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S. S., Sani, S. M. S., Rahman, F., Nizam, N. B., Azam, F. B., Hossen, R., Ohab, S., Noor, N., & Hasan, T. (2024). [BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems.](https://doi.org/10.48550/arXiv.2409.00724) arXiv preprint arXiv:2409.00724.
 
->@article{Ali2024,<br />
+>@article{Nafisa2024,<br />
   title={BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems},<br />
-  author={Ali, Shams Nafisa and Zahin, Afia and Shuvo, Samiul Based and Nizam, Nusrat Binta and Nuhash, Shoyad Ibn Sabur Khan and Razin, Sayeed Sajjad and Sani, S.m. Sakeef and Rahman, Farihin and Nizam, Nawshad Binta and Azam, Farhat Binte and Hossen, Rakib and Ohab, Sumaiya and Noor, Nawsabah and Hasan, Taufiq},<br />
-  journal={IEEE Journal of Biomedical and Health Informatics},<br />
-  volume={XX},<br />
-  pages={1--XX},<br />
-  year={2024},<br />
-  publisher={IEEE}<br />
+  author={Ali, Shams Nafisa and Zahin, Afia and Shuvo, Samiul Based and Nizam, Nusrat Binta and Nuhash, Shoyad Ibn Sabur Khan and Razin, Sayeed Sajjad and Sani, S.M. Sakeef and Rahman, Farihin and Nizam, Nawshad Binta and Azam, Farhat Binte and Hossen, Rakib and Ohab, Sumaiya and Noor, Nawsabah and Hasan, Taufiq},<br />
+  journal={arXiv preprint arXiv:2409.00724},<br />
+  year={2024}<br />
 }
-
---- 
-
-This format follows the same structure as the previous citation examples.
