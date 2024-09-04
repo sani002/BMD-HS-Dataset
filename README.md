@@ -52,3 +52,27 @@ The BMD-HS dataset represents a diverse demographic, making it particularly rele
 ---
 
 This version includes the mention of echocardiographic data and multi-disease data as key features and highlights the dataset's potential imbalance as a weakness.
+
+## Citations
+
+Here is the citation format for the IEEE paper and authors provided:
+
+---
+
+If this dataset helped your research, please cite the following paper:
+
+Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S. S., Sani, S. M. S., Rahman, F., Nizam, N. B., Azam, F. B., Hossen, R., Ohab, S., Noor, N., & Hasan, T. (2024). [BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems](https://doi.org/10.48550/arXiv.2409.00724). IEEE Journal of Biomedical and Health Informatics, XX(XX), 1-XX.
+
+>@article{Ali2024,<br />
+  title={BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems},<br />
+  author={Ali, Shams Nafisa and Zahin, Afia and Shuvo, Samiul Based and Nizam, Nusrat Binta and Nuhash, Shoyad Ibn Sabur Khan and Razin, Sayeed Sajjad and Sani, S.m. Sakeef and Rahman, Farihin and Nizam, Nawshad Binta and Azam, Farhat Binte and Hossen, Rakib and Ohab, Sumaiya and Noor, Nawsabah and Hasan, Taufiq},<br />
+  journal={IEEE Journal of Biomedical and Health Informatics},<br />
+  volume={XX},<br />
+  pages={1--XX},<br />
+  year={2024},<br />
+  publisher={IEEE}<br />
+}
+
+--- 
+
+This format follows the same structure as the previous citation examples.
