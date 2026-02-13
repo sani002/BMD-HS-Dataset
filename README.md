@@ -4,10 +4,10 @@ The BMD-HS dataset is a groundbreaking collection of heart sound recordings, met
 
 ## Key Features:
 - **Multi-label annotations**: Allows nuanced classification by capturing unique disease states, including both single and multi-valvular diseases.
-- **Echocardiographic data**: Includes echocardiographic (ECHO) data to provide additional diagnostic context, making the dataset more comprehensive for cardiovascular disease research.
+- **De-identified metadata**: Includes non-identifying demographic and clinical metadata to provide additional diagnostic context.
 - **Diverse demographic representation**: Recorded at the National Institute of Cardiovascular Disease, Dhaka, the dataset includes a gender-balanced collection of heart sounds, ensuring its relevance for healthcare in Bangladesh and similar regions.
 - **Balanced class representation**: Recordings were collected from 20 healthy subjects and 20 subjects for each valvular disease class, addressing class imbalance issues.
-- **Rich metadata**: Annotations include disease presence, severity, and demographic information, enabling in-depth research and potential discovery of new correlations.
+- **Rich metadata**: Annotations include disease presence, severity, and de-identified demographic information (e.g., age bands), enabling in-depth research and potential discovery of new correlations.
 - **Multi-disease data**: Includes patients with multiple valvular diseases, offering a complex dataset that reflects real-world scenarios where patients often suffer from more than one cardiovascular condition.
 
 ## Dataset Structure
@@ -32,7 +32,7 @@ The BMD-HS dataset is a groundbreaking collection of heart sound recordings, met
 - **Purpose**: Provides supplemental information about patients, which can be used for enhancing predictions or making inferences.
 - **Columns**:
   - **patient_id**: File names in the train folder.
-  - **Age**: Age of the patient.
+  - **Age**: Age band of the patient (e.g., 30-39).
   - **Gender**: Gender of the patient (M = male, F = female).
   - **Smoker**: Smoking status (0 = does not smoke, 1 = smokes).
   - **Lives**: Living area of the patient (U = urban, F = rural).
