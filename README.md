@@ -55,7 +55,7 @@ This version includes the mention of echocardiographic data and multi-disease da
 
 ## Citations
 
-If this dataset helped your research, please cite the following papers:
+If this dataset helped your research, please cite the following paper:
 
 Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S. S., Sani, S. M. S., Rahman, F., Nizam, N. B., Azam, F. B., Hossen, R., Ohab, S., Noor, N., & Hasan, T. (2024). [BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems.](https://doi.org/10.48550/arXiv.2409.00724) arXiv preprint arXiv:2409.00724.
 
@@ -65,3 +65,17 @@ Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S
   journal={arXiv preprint arXiv:2409.00724},<br />
   year={2024}<br />
 }
+
+## License
+This dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE`.
+
+## Attribution
+When sharing or adapting this dataset, please credit:
+**BUET Multi-disease Heart Sound Dataset (c) 2024 mHealth Lab**
+
+Include a link to the license:
+https://creativecommons.org/licenses/by/4.0/
+
+For academic publications, please also cite the paper listed in the Citation section.
+
+
