@@ -57,21 +57,21 @@ This version includes the mention of echocardiographic data and multi-disease da
 
 If this dataset helped your research, please cite the following paper:
 
-Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S. S., Sani, S. M. S., Rahman, F., Nizam, N. B., Azam, F. B., Hossen, R., Ohab, S., Noor, N., & Hasan, T. (2024). [BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems.](https://doi.org/10.48550/arXiv.2409.00724) arXiv preprint arXiv:2409.00724.
+Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S. S., Sani, S. M. S., Rahman, F., Nizam, N. B., Azam, F. B., Hossen, R., Ohab, S., Noor, N., & Hasan, T. (2026). BUET multi-disease heart sound dataset: A comprehensive auscultation dataset for developing computer-aided diagnostic systems. Computer Methods and Programs in Biomedicine Update, 9, 100237. https://doi.org/10.1016/j.cmpbup.2026.100237
 
->@article{Ali2026,
+```latex
+@article{ALI2026100237,
   title = {BUET multi-disease heart sound dataset: A comprehensive auscultation dataset for developing computer-aided diagnostic systems},
-  volume = {9},
-  ISSN = {2666-9900},
-  url = {http://dx.doi.org/10.1016/j.cmpbup.2026.100237},
-  DOI = {10.1016/j.cmpbup.2026.100237},
   journal = {Computer Methods and Programs in Biomedicine Update},
-  publisher = {Elsevier BV},
-  author = {Ali,  Shams Nafisa and Zahin,  Afia and Shuvo,  Samiul Based and Nizam,  Nusrat Binta and Nuhash,  Shoyad Ibn Sabur Khan and Razin,  Sayeed Sajjad and Sani,  S.M. Sakeef and Rahman,  Farihin and Nizam,  Nawshad Binta and Azam,  Farhat Binte and Hossen,  Rakib and Ohab,  Sumaiya and Noor,  Nawsabah and Hasan,  Taufiq},
+  volume = {9},
+  pages = {100237},
   year = {2026},
-  month = jun,
-  pages = {100237}
+  issn = {2666-9900},
+  doi = {https://doi.org/10.1016/j.cmpbup.2026.100237},
+  url = {https://www.sciencedirect.com/science/article/pii/S2666990026000078},
+  author = {Shams Nafisa Ali and Afia Zahin and Samiul Based Shuvo and Nusrat Binta Nizam and Shoyad Ibn Sabur Khan Nuhash and Sayeed Sajjad Razin and S.M. Sakeef Sani and Farihin Rahman and Nawshad Binta Nizam and Farhat Binte Azam and Rakib Hossen and Sumaiya Ohab and Nawsabah Noor and Taufiq Hasan}
 }
+```
 
 ## License
 This dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE`.
