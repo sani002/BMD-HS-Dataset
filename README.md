@@ -59,11 +59,18 @@ If this dataset helped your research, please cite the following paper:
 
 Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S. S., Sani, S. M. S., Rahman, F., Nizam, N. B., Azam, F. B., Hossen, R., Ohab, S., Noor, N., & Hasan, T. (2024). [BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems.](https://doi.org/10.48550/arXiv.2409.00724) arXiv preprint arXiv:2409.00724.
 
->@article{Nafisa2024,<br />
-  title={BUET Multi-disease Heart Sound Dataset: A Comprehensive Auscultation Dataset for Developing Computer-Aided Diagnostic Systems},<br />
-  author={Ali, Shams Nafisa and Zahin, Afia and Shuvo, Samiul Based and Nizam, Nusrat Binta and Nuhash, Shoyad Ibn Sabur Khan and Razin, Sayeed Sajjad and Sani, S.M. Sakeef and Rahman, Farihin and Nizam, Nawshad Binta and Azam, Farhat Binte and Hossen, Rakib and Ohab, Sumaiya and Noor, Nawsabah and Hasan, Taufiq},<br />
-  journal={arXiv preprint arXiv:2409.00724},<br />
-  year={2024}<br />
+>@article{Ali2026,
+  title = {BUET multi-disease heart sound dataset: A comprehensive auscultation dataset for developing computer-aided diagnostic systems},
+  volume = {9},
+  ISSN = {2666-9900},
+  url = {http://dx.doi.org/10.1016/j.cmpbup.2026.100237},
+  DOI = {10.1016/j.cmpbup.2026.100237},
+  journal = {Computer Methods and Programs in Biomedicine Update},
+  publisher = {Elsevier BV},
+  author = {Ali,  Shams Nafisa and Zahin,  Afia and Shuvo,  Samiul Based and Nizam,  Nusrat Binta and Nuhash,  Shoyad Ibn Sabur Khan and Razin,  Sayeed Sajjad and Sani,  S.M. Sakeef and Rahman,  Farihin and Nizam,  Nawshad Binta and Azam,  Farhat Binte and Hossen,  Rakib and Ohab,  Sumaiya and Noor,  Nawsabah and Hasan,  Taufiq},
+  year = {2026},
+  month = jun,
+  pages = {100237}
 }
 
 ## License
