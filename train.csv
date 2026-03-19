@@ -20,6 +20,7 @@ patient_018,1,1,0,0,0,MD_018_sup_Mit,MD_018_sup_Tri,MD_018_sup_Pul,MD_018_sup_Ao
 patient_019,1,1,0,0,0,MD_019_sup_Mit,MD_019_sup_Tri,MD_019_sup_Pul,MD_019_sup_Aor,MD_019_sit_Mit,MD_019_sit_Tri,MD_019_sit_Pul,MD_019_sit_Aor
 patient_020,1,1,0,0,0,MD_020_sup_Mit,MD_020_sup_Tri,MD_020_sup_Pul,MD_020_sup_Aor,MD_020_sit_Mit,MD_020_sit_Tri,MD_020_sit_Pul,MD_020_sit_Aor
 patient_021,1,1,0,0,0,MD_021_sup_Mit,MD_021_sup_Tri,MD_021_sup_Pul,MD_021_sup_Aor,MD_021_sit_Mit,MD_021_sit_Tri,MD_021_sit_Pul,MD_021_sit_Aor
+patient_022,N/A,N/A,N/A,N/A,N/A,MD_022_sup_Mit,MD_022_sup_Tri,MD_022_sup_Pul,MD_022_sup_Aor,MD_022_sit_Mit,MD_022_sit_Tri,MD_022_sit_Pul,MD_022_sit_Aor
 patient_023,1,1,0,0,0,MD_023_sup_Mit,MD_023_sup_Tri,MD_023_sup_Pul,MD_023_sup_Aor,MD_023_sit_Mit,MD_023_sit_Tri,MD_023_sit_Pul,MD_023_sit_Aor
 patient_024,0,0,0,1,0,MS_024_sup_Mit,MS_024_sup_Tri,MS_024_sup_Pul,MS_024_sup_Aor,MS_024_sit_Mit,MS_024_sit_Tri,MS_024_sit_Pul,MS_024_sit_Aor
 patient_025,1,1,0,0,0,MD_025_sup_Mit,MD_025_sup_Tri,MD_025_sup_Pul,MD_025_sup_Aor,MD_025_sit_Mit,MD_025_sit_Tri,MD_025_sit_Pul,MD_025_sit_Aor

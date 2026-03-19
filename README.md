@@ -37,6 +37,8 @@ The BMD-HS dataset is a groundbreaking collection of heart sound recordings, met
   - **Smoker**: Smoking status (0 = does not smoke, 1 = smokes).
   - **Lives**: Living area of the patient (U = urban, F = rural).
 
+**Note**: Patient 22 was diagnosed with Mitral Valve Prolapse (MVP), which does not fall into any of the four disease classes. Their diagnosis is marked as N/A in train.csv.
+
 ### Key Points:
 - **Preprocessing & Augmentation**: Due to the limited size of the training set, effective preprocessing and augmentation techniques are crucial.
 - **Transfer Learning**: Leveraging external publicly available datasets for transfer learning is encouraged.
