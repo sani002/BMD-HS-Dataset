@@ -76,14 +76,14 @@ Ali, S. N., Zahin, A., Shuvo, S. B., Nizam, N. B., Nuhash, S. I. S. K., Razin, S
 ```
 
 ## License
-This dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE`.
+This dataset is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). See `LICENSE`.
 
 ## Attribution
 When sharing or adapting this dataset, please credit:
 **BUET Multi-disease Heart Sound Dataset (c) 2024 mHealth Lab**
 
 Include a link to the license:
-https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 For academic publications, please also cite the paper listed in the Citation section.
 
